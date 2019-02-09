@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "neww",
+      "description": "d",
+      "id": 1
+    },
+    {
+      "title": "another stream",
+      "description": "relly",
+      "id": 2
+    },
+    {
+      "title": "another stream",
+      "description": "wow",
+      "id": 3
+    },
+    {
+      "title": "this is a stream ",
+      "description": "check out my new stream!",
+      "userId": "103610063309498373732",
+      "id": 5
+    },
+    {
+      "title": "just checkin",
+      "description": "change this !!",
+      "id": 6
+    },
+    {
+      "title": "this is s",
+      "description": "ls",
+      "userId": "103610063309498373732",
+      "id": 7
+    }
+  ]
+}
